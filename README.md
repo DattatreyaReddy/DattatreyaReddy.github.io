@@ -1,2 +1,2 @@
-# webpract.github.io
+# dattatreyareddy.github.io
 Webpage pract
